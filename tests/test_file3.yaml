@@ -1,0 +1,3 @@
+containers:
+  - name: container1
+    image: image1_updated
